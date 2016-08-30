@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/EToast.iml" filepath="$PROJECT_DIR$/EToast.iml" />
-      <module fileurl="file://$PROJECT_DIR$/etoast/app.iml" filepath="$PROJECT_DIR$/etoast/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/etoast/etoast.iml" filepath="$PROJECT_DIR$/etoast/etoast.iml" />
     </modules>
   </component>
