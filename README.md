@@ -2,7 +2,7 @@
 
 ![img](https://jitpack.io/v/aotian16/EToast.svg)
 
-Toast util for android.
+Toast util for android
 
 # Install
 
