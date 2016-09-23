@@ -19,7 +19,7 @@ Toast util for android
 
 ```
 	dependencies {
-	        compile 'com.github.aotian16:EToast:v1.0.1'
+	        compile 'com.github.aotian16:EToast:v1.0.2'
 	}
 ```
 
@@ -48,6 +48,7 @@ public void showToast(int resId, boolean isLong) {
 | :--: | :-----: | ---------------- |
 |  1   |  1.0.0  | First version    |
 |  2   |  1.0.1  | update appcompat |
+|  3   |  1.0.2  | update appcompat |
 
 # [LICENSE](https://github.com/aotian16/EToast/blob/master/LICENSE)
 
